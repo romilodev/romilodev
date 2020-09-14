@@ -6,7 +6,7 @@ Hi 👋
 ## 👨🏼‍💻 About me
 Hi! My name is **Romilo** (not my real name! 😅) and I love programming and Minecraft <img src="https://i.imgur.com/fLrRDZE.gif" alt="" height="20px" />
 
-I have a Minecraft YouTube channel, but it is in Portuguese, as it is my language ([link below](#-social-media))
+I have a Minecraft YouTube channel, but it is in Portuguese, as it is my language ([link below](https://github.com/romilodev#-social-media))
 
 ## 🌱 I’m currently learning
 That's why I recently started programming mods for minecraft (I haven't started programming any public mods yet, just one for testing)
