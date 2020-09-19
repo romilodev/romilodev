@@ -3,7 +3,7 @@ Hi 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=romilodev&show_icons=true&hide_border=true)
 
-## 👨🏼‍💻 About me
+## 👨🏻‍💻 About me
 Hi! My name is **Romilo** (not my real name! 😅) and I love programming and Minecraft <img src="https://i.imgur.com/fLrRDZE.gif" alt="" height="20px" />
 
 I have a Minecraft YouTube channel, but it is in Portuguese, as it is my language (link below)
